@@ -1,0 +1,54 @@
+.d1{
+    width:460px;
+    height:200px;
+    background-color: antiquewhite;
+    position: relative;
+    left:500px;
+    top:20px;
+    border-radius: 20px;
+
+}
+.d2{
+    width:460px;
+    height:100px;
+    background-color: bisque;
+    position: relative;
+    left:500px;
+    top:20px;
+    border-radius:10px 0px 10px 0px;
+}
+p
+{
+    font-size: 19px;
+    position: relative;
+    left:120px;
+    color:darkgreen;
+}
+label
+{
+    position: relative;
+    left:50px;
+    color:red;
+    font-size: 18px;
+}
+input
+{
+    position:relative;
+    left:60px;
+    font-size:17px;
+    color: black;
+    border-radius:5px;
+}
+button{
+    color: black;
+    background-color: rgb(86, 86, 177);
+    border-radius: 20px;
+    font-size: 18px;
+    position: relative;
+    left:150px;
+    width: 150px;
+    height: 30px;
+}
+button:hover{
+    background-color: rgb(132, 132, 240);
+}
